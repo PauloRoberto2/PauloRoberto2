@@ -1,10 +1,6 @@
 <h1 align="center">Hello 👋, I'm Paulo</h1>
 <h3 align="center">A student who loves to learn random things.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JS and PHP**
-- 🤝 I’m looking for help with **PHP**
-- ⚡ Funny fact: **I like to take things apart to see how they work inside.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/racunni" target="blank">
